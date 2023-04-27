@@ -37,6 +37,12 @@ body {
 
 .header__sub-title__action-button {
   align-items: end;
+  border-radius: 5px;
+  background-color: #e55c00;
+  color: aliceblue;
+  width: 90px;
+  height: 50px;
+  font-size: medium;
 }
 
 .main__img__section {
